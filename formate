@@ -1,8 +1,0 @@
-# typical movie object formate
-
-{
-  "name",
-  "releaes_year",
-  "studio",
-  ["actores"],
-}
