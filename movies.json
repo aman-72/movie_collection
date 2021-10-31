@@ -19,5 +19,12 @@
     "studio" : "Lucasfilm",
     "actors" : ["Mark Hamill", "Harrison Ford", "Carrie Fisher", "Billy Dee Williams", "Anthony Daniels", "David Prowse", "Kenny Baker", "Peter Mayhew", "Frank Oz"],
     "images" : ["https://en.wikipedia.org/wiki/File:ReturnOfTheJediPoster1983.jpg"]
+  },
+  {
+    "name": "Rogue One: A Star Wars Story",
+    "releaes_year" : 2016,
+    "studio" : "Lucasfilm",
+    "actors" : ["Felicity Jones", "Diego Luna", "Ben Mendelsohn", "Donnie Yen", "Mads Mikkelsen", "Alan Tudyk", "Jiang Wen", "Forest Whitaker", "Riz Ahmed"],
+    "images" : ["https://upload.wikimedia.org/wikipedia/en/d/d4/Rogue_One%2C_A_Star_Wars_Story_poster.png"]
   }
 ]
