@@ -5,5 +5,19 @@
     "studio" : "Lucasfilm",
     "actors" : ["Mark Hamill", "Harrison Ford", "Carrie Fisher", "Peter Cushing", "Alec Guinness"],
     "images" : ["https://en.wikipedia.org/wiki/File:StarWarsMoviePoster1977.jpg"]
+  },
+  {
+    "name": "Star Wars: Episode V – The Empire Strikes Back",
+    "releaes_year" : 1980,
+    "studio" : "Lucasfilm",
+    "actors" : ["Mark Hamill", "Harrison Ford", "Carrie Fisher", "Billy Dee Williams", "Anthony Daniels", "David Prowse", "Kenny Baker", "Peter Mayhew", "Frank Oz"],
+    "images" : ["https://en.wikipedia.org/wiki/File:SW_-_Empire_Strikes_Back.jpg"]
+  },
+  {
+    "name": "Star Wars: Episode VI – Return of the Jedi",
+    "releaes_year" : 1983,
+    "studio" : "Lucasfilm",
+    "actors" : ["Mark Hamill", "Harrison Ford", "Carrie Fisher", "Billy Dee Williams", "Anthony Daniels", "David Prowse", "Kenny Baker", "Peter Mayhew", "Frank Oz"],
+    "images" : ["https://en.wikipedia.org/wiki/File:ReturnOfTheJediPoster1983.jpg"]
   }
 ]
