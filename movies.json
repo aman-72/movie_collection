@@ -1,5 +1,9 @@
 [
   {
-    "name":
+    "name": "Star Wars: Episode IV – A New Hope",
+    "releaes_year" : 1977,
+    "studio" : "Lucasfilm",
+    "actors" : ["Mark Hamill", "Harrison Ford", "Carrie Fisher", "Peter Cushing", "Alec Guinness"],
+    "images" : ["https://en.wikipedia.org/wiki/File:StarWarsMoviePoster1977.jpg"]
   }
 ]
