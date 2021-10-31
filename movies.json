@@ -49,10 +49,31 @@
     "images" : ["https://en.wikipedia.org/wiki/File:Iron_Man_2_poster.jpg"]
   },
   {
-    "name": "Rogue One: A Star Wars Story",
+    "name": "Thor",
+    "releaes_year" : 2011,
+    "studio" : "Marvel Studios",
+    "actors" : ["Chris Hemsworth", "Natalie Portman", "Tom Hiddleston", "Stellan Skarsgård", "Colm Feore", "Ray Stevenson", "Idris Elba", "Kat Dennings", "Rene Russo", "Anthony Hopkins"],
+    "images" : ["https://en.wikipedia.org/wiki/File:Thor_(film)_poster.jpg"]
+  },
+  {
+    "name": "Captain America: The First Avenger",
     "releaes_year" : 2011,
     "studio" : "Marvel Studios",
     "actors" : ["Chris Evans", "Tommy Lee Jones", "Hugo Weaving", "Hayley Atwell", "Sebastian Stan", "Dominic Cooper", "Neal McDonough", "Derek Luke", "Stanley Tucci"],
     "images" : ["https://en.wikipedia.org/wiki/File:Captain_America_The_First_Avenger_poster.jpg"]
+  },
+  {
+    "name": "The Avengers",
+    "releaes_year" : 2012,
+    "studio" : "Marvel Studios",
+    "actors" : ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo", "Chris Hemsworth", "Scarlett Johansson", "Jeremy Renner", "Tom Hiddleston", "Clark Gregg", "Cobie Smulders", "Stellan Skarsgård", "Samuel L. Jackson"],
+    "images" : ["https://en.wikipedia.org/wiki/File:The_Avengers_(2012_film)_poster.jpg"]
+  },
+  {
+    "name": "Iron Man 3",
+    "releaes_year" : 2013,
+    "studio" : "Marvel Studios",
+    "actors" : ["Robert Downey Jr.", "Gwyneth Paltrow", "Don Cheadle", "Guy Pearce", "Rebecca Hall", "Stéphanie Szostak", "James Badge Dale", "Jon Favreau","Ben Kingsley"],
+    "images" : ["https://en.wikipedia.org/wiki/File:Iron_Man_3_poster.jpg"]
   }
 ]
