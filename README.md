@@ -12,5 +12,6 @@ If want to add any new movie please follow the following formate.
   'releaes_year',
   'studio',
   ['actores'],
+  ['images'],
 }
 ```
