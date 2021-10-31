@@ -26,5 +26,33 @@
     "studio" : "Lucasfilm",
     "actors" : ["Felicity Jones", "Diego Luna", "Ben Mendelsohn", "Donnie Yen", "Mads Mikkelsen", "Alan Tudyk", "Jiang Wen", "Forest Whitaker", "Riz Ahmed"],
     "images" : ["https://upload.wikimedia.org/wikipedia/en/d/d4/Rogue_One%2C_A_Star_Wars_Story_poster.png"]
+  },
+  {
+    "name": "Iron Man ",
+    "releaes_year" : 2008,
+    "studio" : "Marvel Studios",
+    "actors" : ["Robert Downey Jr.", "Terrence Howard", "Jeff Bridges", "Shaun Toub", "Gwyneth Paltrow"],
+    "images" : ["https://en.wikipedia.org/wiki/File:Iron_Man_(2008_film)_poster.jpg"]
+  },
+  {
+    "name": "The Incredible Hulk",
+    "releaes_year" : 2008,
+    "studio" : "Marvel Studios",
+    "actors" : ["Edward Norton", "Liv Tyler", "Tim Roth", "Tim Blake Nelson", "Ty Burrell", "William Hurt"],
+    "images" : ["https://en.wikipedia.org/wiki/File:The_Incredible_Hulk_(film)_poster.jpg"]
+  },
+  {
+    "name": "Iron Man 2",
+    "releaes_year" : 2010,
+    "studio" : "Marvel Studios",
+    "actors" : ["Robert Downey Jr.", "Gwyneth Paltrow", "Don Cheadle", "Scarlett Johansson", "Sam Rockwell", "Mickey Rourke", "Samuel L. Jackson"],
+    "images" : ["https://en.wikipedia.org/wiki/File:Iron_Man_2_poster.jpg"]
+  },
+  {
+    "name": "Rogue One: A Star Wars Story",
+    "releaes_year" : 2011,
+    "studio" : "Marvel Studios",
+    "actors" : ["Chris Evans", "Tommy Lee Jones", "Hugo Weaving", "Hayley Atwell", "Sebastian Stan", "Dominic Cooper", "Neal McDonough", "Derek Luke", "Stanley Tucci"],
+    "images" : ["https://en.wikipedia.org/wiki/File:Captain_America_The_First_Avenger_poster.jpg"]
   }
 ]
