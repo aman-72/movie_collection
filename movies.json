@@ -28,7 +28,14 @@
     "images" : ["https://upload.wikimedia.org/wikipedia/en/d/d4/Rogue_One%2C_A_Star_Wars_Story_poster.png"]
   },
   {
-    "name": "Iron Man ",
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "releaes_year" : 2001,
+    "studio" : "New Line Cinema",
+    "actors" : ["Elijah Wood","Ian McKellen","Liv Tyler","Viggo Mortensen","Sean Astin","Cate Blanchett","John Rhys-Davies","Billy Boyd","Dominic Monaghan","Orlando Bloom","Christopher Lee","Hugo Weaving","Sean Bean","Ian Holm","Andy Serkis"],
+    "images" : ["https://upload.wikimedia.org/wikipedia/en/8/8a/The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_%282001%29.jpg"]
+  },
+  {
+    "name": "Iron Man",
     "releaes_year" : 2008,
     "studio" : "Marvel Studios",
     "actors" : ["Robert Downey Jr.", "Terrence Howard", "Jeff Bridges", "Shaun Toub", "Gwyneth Paltrow"],
