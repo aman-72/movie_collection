@@ -42,6 +42,13 @@
     "images" : ["https://upload.wikimedia.org/wikipedia/en/d/d0/Lord_of_the_Rings_-_The_Two_Towers_%282002%29.jpg"]
   },
   {
+    "name": "The Lord of the Rings: The Return of the King",
+    "releaes_year" : 2003,
+    "studio" : "New Line Cinema",
+    "actors" : ["Elijah Wood","Ian McKellen","Liv Tyler","Viggo Mortensen","Sean Astin","Cate Blanchett","John Rhys-Davies","Billy Boyd","Dominic Monaghan","Orlando Bloom","Hugo Weaving","Miranda Otto","David Wenham","Karl Urban","John Noble","Ian Holm","Andy Serkis","Sean Bean"],
+    "images" : ["https://upload.wikimedia.org/wikipedia/en/b/be/The_Lord_of_the_Rings_-_The_Return_of_the_King_%282003%29.jpg"]
+  },
+  {
     "name": "Iron Man",
     "releaes_year" : 2008,
     "studio" : "Marvel Studios",
